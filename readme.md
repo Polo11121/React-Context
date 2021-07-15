@@ -19,9 +19,9 @@ Installation:
 To Run Test Suite:
 `npm test`
 To Start Server:
-`npm start
+`npm start`
 To Visit App:
-`localhost:3000`
+`localhost:3000/`
 
 # Reflection
 
