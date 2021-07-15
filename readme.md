@@ -26,24 +26,24 @@ Photos will appear in the future.
 
 # Installation and Setup Instructions
     
-Clone down this repository. You will need node and npm installed globally on your machine. /
-Installation: /
-`npm install` /
-To Run Test Suite: /
-`npm test` /
-To Start Server: /
-`npm start /
-To Visit App: /
-`localhost:3000/` /
+Clone down this repository. You will need node and npm installed globally on your machine.  
+Installation:  
+`npm install`  
+To Run Test Suite:  
+`npm test`  
+To Start Server:  
+`npm start`  
+To Visit App:  
+`localhost:3000/`  
 
 # Reflection
 
-We create this application for an internship at Billennium.
+We create this application for an internship at Billennium.  
 
-We want this application to resemble the original as much as possible and such functionalities as the ability to log in / create an account, add posts, the ability to follow other users and view their profiles
+We want this application to resemble the original as much as possible and such functionalities as the ability to log in / create an account, add posts, the ability to follow other users and view their profiles  
 
 The purpose of creating this application is to see what working in a team on a real project looks like and to improve our programming skills
 
-Application development issues: nothing by now 
+Application development issues: nothing by now   
 
-Status : beginning
+Status : beginning  
